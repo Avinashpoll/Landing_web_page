@@ -1,0 +1,37 @@
+body{
+
+    color: #d2d6dd;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    text-decoration: none;
+  }
+
+  
+  .logo{
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+
+ .bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  .div{
+    text-transform: capitalize;
+    font-weight: bold;
+    padding: 2px;
+    
+    display: flex;
+    justify-content: center;
+
+  }
+
+  footer {
+  text-align: center;
+  padding: 5px;
+  background-color: lightblack;
+  color: grey;
+}
+  
